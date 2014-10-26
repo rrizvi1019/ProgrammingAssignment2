@@ -28,7 +28,6 @@ inv_m <- NULL
        getinverse = getinverse)
 }
 
-}
 
 ## Write a short comment describing this function
 ##cacheSolve: This function computes the inverse of the special "matrix" 
